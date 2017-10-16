@@ -1,4 +1,5 @@
 1) What is the function of the following technologies in your assignment:
+
 HTML: web pages
 CSS: styling the web pages
 JavaScript: validation of the contactUs form
