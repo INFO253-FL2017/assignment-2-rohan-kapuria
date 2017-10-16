@@ -6,7 +6,7 @@ JavaScript: validation of the contactUs form
 Python:
 Flask: Flask is a microframework for Python
 HTTP: It is used to communicate with the web server
-GET and POST requests: POST is used to send the mailgun credentials to the server. GET is is used to get responses from the server
+GET and POST requests: POST is used to send the request to mailgun (including mailgun credentials) to the server. GET is is used to get responses from the server
 
 2) How does HTML, CSS, and JavaScript work together in the browser for this assignment?
 <br/>Answer:
