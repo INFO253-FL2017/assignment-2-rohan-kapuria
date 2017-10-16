@@ -1,3 +1,59 @@
-h1 {
-	color: blue;
+ol { margin-left: 1.5%;}
+
+ul { margin-left: 1.5%;}
+
+.error{color: red;}
+
+#p007 {
+  font-size: 1.8rem;
+  line-height: 1.5;
+  letter-spacing: -.05rem;
+  color: blue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-weight: 300;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.header{
+  background-color: #003399;
+  overflow: hidden;
+}
+
+.header a{
+  float:left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.header a:hover{
+  background-color: #333;
+  color: white;
+}
+
+.footer{
+  background-color: #ebebe0;
+  overflow: hidden;
+}
+
+.footer a{
+  float:left;
+  display: block;
+  color: #8c8c8c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.footer a:hover{
+  background-color: #333;
+  color: white;
 }
