@@ -15,6 +15,8 @@ CSS is used to control presentation, formatting, and layout.
 JavaScript is used to control the behavior of different elements.
 
 3) How does Python and Flask work together in the server for this assignment?
+Answer:
 
 
 4) List all of the possible GET and POST requests that your server returns a response for and describes what happens for each GET and POST request
+Answer:
